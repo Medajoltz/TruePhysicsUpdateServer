@@ -1,2 +1,2 @@
-delete test.txt
+add /raw/character/playercommon.pac
 add mod.ini
