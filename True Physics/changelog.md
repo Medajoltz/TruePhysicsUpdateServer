@@ -1,3 +1,6 @@
+# True Physics v1.3
+- Removed test.txt
+
 ## True Physics v1.2
 - Added test.txt
 
