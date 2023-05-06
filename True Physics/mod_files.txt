@@ -1,2 +1,2 @@
-add test.txt
+delete test.txt
 add mod.ini
