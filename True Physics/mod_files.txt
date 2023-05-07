@@ -1,3 +1,2 @@
-delete /raw/character/playercommon.pac
-add add /raw/character/playercommon.pac
+add /raw/character/playercommon.pac
 add mod.ini
