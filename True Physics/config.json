@@ -1,0 +1,87 @@
+{
+	"Groups":
+	[
+		{
+			"Name": "Main",
+			"DisplayName": "Configuration",
+			"Elements":
+			[
+				{
+					"Name": "IncludeDir0",
+					"DisplayName": "Version",
+					"Description":
+					[
+					""
+					],
+					"Type": "Config",
+					"MinValue": null,
+					"MaxValue": null,
+					"DefaultValue": "ReducedBoostBalanced"
+				}
+			]
+		}
+	],
+	"Enums":
+	{
+		"Config":
+		[
+			{
+			"DisplayName": "Reduced Boost (Balanced)",
+			"Value": "ReducedBoostBalanced",
+			"Description": [
+			"- Higher boost consumption rate\n- Lower boost recovery rate\n- Increased boost recovery from rings and attacks\n- Level 1 ring cap at 50\n- Infinite boost disabled"
+			]
+			},
+			{
+			"DisplayName": "Reduced Boost (Balanced + Air Drag)",
+			"Value": "ReducedBoostBalancedDrag",
+			"Description": [
+			"- Higher boost consumption rate\n- Lower boost recovery rate\n- Increased boost recovery from rings and attacks\n- Level 1 ring cap at 50\n- Infinite boost disabled\n - Jumping air drag enabled"
+			]
+			},
+			{
+			"DisplayName": "Reduced Boost (Unbalanced)",
+			"Value": "ReducedBoostUnbalanced",
+			"Description": [
+			"- Higher boost consumption rate\n- Lower boost recovery rate\n- Increased boost recovery from rings and attacks\n- Level 1 ring cap at 400\n- Infinite boost enabled"
+			]
+			},
+			{
+			"DisplayName": "Reduced Boost (Unbalanced + Air Drag)",
+			"Value": "ReducedBoostUnbalancedDrag",
+			"Description": [
+			"- Higher boost consumption rate\n- Lower boost recovery rate\n- Increased boost recovery from rings and attacks\n- Level 1 ring cap at 400\n- Infinite boost enabled\n - Jumping air drag enabled"
+			]
+			},
+			{
+			"DisplayName": "Better Boost (Balanced)",
+			"Value": "BetterBoostBalanced",
+			"Description": [
+			"- Lower boost consumption rate\n- Higher boost recovery rate\n- Level 1 ring cap at 50\n- Infinite boost disabled"
+			]
+			},
+			{
+			"DisplayName": "Better Boost (Balanced + Air Drag)",
+			"Value": "BetterBoostBalancedDrag",
+			"Description": [
+			"- Lower boost consumption rate\n- Higher boost recovery rate\n- Level 1 ring cap at 50\n- Infinite boost disabled\n - Jumping air drag enabled"
+			]
+			},
+			{
+			"DisplayName": "Better Boost (Unbalanced)",
+			"Value": "BetterBoostUnbalanced",
+			"Description": [
+			"- Lower boost consumption rate\n- Higher boost recovery rate\n- Level 1 ring cap at 400\n- Infinite boost enabled"
+			]
+			},
+			{
+			"DisplayName": "Better Boost (Unbalanced + Air Drag)",
+			"Value": "BetterBoostUnbalancedDrag",
+			"Description": [
+			"- Lower boost consumption rate\n- Higher boost recovery rate\n- Level 1 ring cap at 400\n- Infinite boost enabled\n - Jumping air drag enabled"
+			]
+			}	
+		]
+	},
+	"IniFile": "mod.ini"
+}
