@@ -1,2 +1,10 @@
-add raw/character/playercommon.pac
+add BetterBoostUnbalancedDrag/raw/character/playercommon.pac
+add ReducedBoostBalanced/raw/character/playercommon.pac
+add ReducedBoostBalancedDrag/raw/character/playercommon.pac
+add ReducedBoostUnbalanced/raw/character/playercommon.pac
+add ReducedBoostUnbalancedDrag/raw/character/playercommon.pac
+add BetterBoostBalanced/raw/character/playercommon.pac
+add BetterBoostBalancedDrag/raw/character/playercommon.pac
+add BetterBoostUnbalanced/raw/character/playercommon.pac
+add config.json
 add mod.ini
