@@ -4,7 +4,6 @@
 - Removed natural deceleration
 - Removed falling state due to it slowing Sonic down significantly
 - Tweaked gravity acceleration and deceleration
-- Tweaked boost
 - Tweaked animation speeds
 - Adjusted wallrunning speeds
 
