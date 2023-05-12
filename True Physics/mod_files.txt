@@ -1,4 +1,4 @@
-delete raw/character/playercommon.pac
+delete /raw/character/playercommon.pac
 add BetterBoostUnbalancedDrag/raw/character/playercommon.pac
 add ReducedBoostBalanced/raw/character/playercommon.pac
 add ReducedBoostBalancedDrag/raw/character/playercommon.pac
